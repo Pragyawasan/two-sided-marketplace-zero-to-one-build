@@ -129,3 +129,14 @@ but because of liquidity imbalance.
 
 Designing pricing abstraction and supply density
 is more critical than feature breadth.
+
+## My Role
+
+Led product design end-to-end:
+- Conducted 60 user interviews
+- Designed pricing abstraction model
+- Structured unit economics
+- Defined GTM cluster strategy
+- Evaluated tech stack tradeoffs
+- Ran pilot execution
+
